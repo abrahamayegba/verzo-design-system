@@ -35,7 +35,7 @@ const Dropdown = () => {
                 <div className="mt-4 rounded-lg gap-x-16 min-h-[280px] border border-gray-200 items-start py-8 px-3 flex justify-center w-full">
                   <Menu as="div" className="relative inline-block text-left">
                     <div>
-                      <MenuButton className="inline-flex w-full justify-center gap-x-1.5 rounded-md bg-white px-3 py-2 text-sm font-medium text-gray-800 ring-1 ring-inset ring-gray-300 hover:bg-gray-50">
+                      <MenuButton className="inline-flex w-full justify-center gap-x-1.5 rounded-md bg-white px-4 py-2 text-sm font-medium text-gray-800 ring-1 ring-inset ring-gray-300 hover:bg-gray-50">
                         Open
                         <ChevronDown
                           aria-hidden="true"
@@ -93,7 +93,7 @@ const Dropdown = () => {
                 <div className="mt-4 rounded-lg gap-x-16 border min-h-[400px] border-gray-200 items-start py-8 px-4 flex justify-center w-full">
                   <Menu as="div" className="relative inline-block text-left">
                     <div>
-                      <MenuButton className="inline-flex w-full justify-center gap-x-1.5 rounded-md bg-white px-3 py-2 text-sm font-medium text-gray-800 ring-1 ring-inset ring-gray-300 hover:bg-gray-50">
+                      <MenuButton className="inline-flex w-full justify-center gap-x-1.5 rounded-md bg-white px-4 py-2 text-sm font-medium text-gray-800 ring-1 ring-inset ring-gray-300 hover:bg-gray-50">
                         Open
                         <ChevronDownIcon
                           aria-hidden="true"
@@ -179,7 +179,7 @@ const Dropdown = () => {
                 <div className="mt-4 rounded-lg gap-x-16 border min-h-[400px] border-gray-200 items-start py-8 px-4 flex justify-center w-full">
                   <Menu as="div" className="relative inline-block text-left">
                     <div>
-                      <MenuButton className="inline-flex w-full justify-center gap-x-1.5 rounded-md bg-white px-3 py-2 text-sm font-medium text-gray-800 ring-1 ring-inset ring-gray-300 hover:bg-gray-50">
+                      <MenuButton className="inline-flex w-full justify-center gap-x-1.5 rounded-md bg-white px-4 py-2 text-sm font-medium text-gray-800 ring-1 ring-inset ring-gray-300 hover:bg-gray-50">
                         Open
                         <ChevronDownIcon
                           aria-hidden="true"
