@@ -20,8 +20,10 @@ const ComponentSidebar = () => {
         <li className={`  pl-4 ${isActive("/uicomponents/input")}`}>
           <Link href="/uicomponents/input">Input</Link>
         </li>
+        <li className={`  pl-4 ${isActive("/uicomponents/dropdown")}`}>
+          <Link href="/uicomponents/dropdown">Dropdown</Link>
+        </li>
         <li className=" pl-4">Modal</li>
-        <li className=" pl-4">Dropdown</li>
       </ul>
     </aside>
   );
